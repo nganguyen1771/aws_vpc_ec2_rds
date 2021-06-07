@@ -1,5 +1,5 @@
 ### Introduction
-This demo uses the cloudpose's library to build ec2 & rds in the vpc. the AWS structure is in AWS account that can be accessed via gateway account.
+This demo uses the cloudpose's library to build ec2 & rds in the vpc. The AWS structure is in AWS account that accessed via gateway account.
 #### Get session token
 Run command: ```get_token.sh```
 #### Build structure
